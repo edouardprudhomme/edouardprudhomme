@@ -30,6 +30,7 @@
 ### Electronics & Embedded Systems
 ![KiCad](https://img.shields.io/badge/KiCad-FEB41B?style=for-the-badge&logo=kicad&logoColor=white)
 ![Altium](https://img.shields.io/badge/Altium-FF0000?style=for-the-badge&logo=altium&logoColor=white)
+[![PSoC Creator](https://img.shields.io/badge/PSoC_Creator-FF6600?style=for-the-badge)]
 - Digital & sequential circuits, analog circuits & filters, Verilog  
 - Wiring & circuit design, PCB design  
 - System integration & testing
@@ -37,7 +38,11 @@
 ### Simulation & Tools
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![PSpice](https://img.shields.io/badge/PSpice-FF6600?style=for-the-badge)
-- MATLAB, Maple, PSpice, LTspice, ParaView, Tinkercad  
+[![Maple](https://img.shields.io/badge/Maple-FF0000?style=for-the-badge)]
+[![PSpice](https://img.shields.io/badge/PSpice-FF6600?style=for-the-badge)]
+[![LTspice](https://img.shields.io/badge/LTspice-FF6600?style=for-the-badge)]
+[![ParaView](https://img.shields.io/badge/ParaView-FF6600?style=for-the-badge)]
+[![Tinkercad](https://img.shields.io/badge/Tinkercad-00BFFF?style=for-the-badge)]
 - Oscilloscope, function generator, power supply, multimeter  
 - Git / GitLab / version control
 
