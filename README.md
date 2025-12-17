@@ -2,7 +2,7 @@
 
 🎓 Electrical Engineering Student @ Polytechnique Montréal  
 🔌 Passionate about Embedded Systems, Electronics & Aerospace  
-🚀 Member of the PolyOrbite CubeSat Team — Electrical & COMM Subsystem  
+🚀 Member of the PolyOrbite CubeSat Team — Electrical & COMM Subsystem 
 
 ---
 
