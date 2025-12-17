@@ -13,8 +13,8 @@
 - Design, simulation, and testing of PCBs  
 - Collaborated with other teams for subsystem integration 
 
-### Arduino Pill Counter (Personal Project)
-- Built an automated pill counting system using Arduino and sensors  
+### Pill Counter
+- Built an automated pill counting system using logic gates and Arduino
 - Developed embedded code and tested hardware integration  
 - Gained practical skills in electronics, programming, and debugging
 
