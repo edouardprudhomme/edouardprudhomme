@@ -6,17 +6,18 @@
 
 ---
 
-## 🌐 Featured Projects
+## 💡 About Me
 
-### PolyOrbite – CubeSat Communications Subsystem
-- Electrical team member – COMM subsystem  
-- Design, simulation, and testing of PCBs  
-- Collaborated with other teams for subsystem integration 
+I'm an Electrical Engineering student at Polytechnique Montréal with a passion for **Embedded Systems, Electronics, and Aerospace**.  
+Currently, I am a member of the **PolyOrbite CubeSat Team**, working in the **Electrical & COMM subsystem**.  
 
-### Pill Counter
-- Built an automated pill counting system using logic gates and Arduino
-- Developed embedded code and tested hardware integration  
-- Gained practical skills in electronics, programming, and debugging
+My role involves:  
+- Designing, simulating, and testing PCBs  
+- Collaborating with other subsystems for integration  
+- Applying embedded systems knowledge to real aerospace projects
+- Conducting research to explore innovative solutions and improve system performance
+
+I enjoy **hands-on engineering**, teamwork, and learning new technologies to contribute to innovative aerospace projects.
 
 ---
 
