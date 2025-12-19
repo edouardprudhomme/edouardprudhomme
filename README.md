@@ -9,7 +9,7 @@
 ## 💡 About Me
 
 I'm an Electrical Engineering student at Polytechnique Montréal with a passion for **Embedded Systems, Electronics, and Aerospace**.  
-Currently, I am a member of the **PolyOrbite CubeSat Team**, working in the **Electrical & COMM subsystem**.  
+Currently, I am a member of the **PolyOrbite CubeSat Team**, working on the **Electrical & COMM subsystem**.  
 
 My role involves:  
 - Designing, simulating, and testing PCBs  
